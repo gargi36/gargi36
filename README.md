@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, Gargi teotia is here</h1>
+<h1 align="center">Hi there👋, Gargi Teotia is here</h1>
 <h3 align="center">A frontend web developer from India having a keen interest in learning new technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargi36&label=Profile%20views&color=0e75b6&style=flat" alt="gargi36" /> </p>
